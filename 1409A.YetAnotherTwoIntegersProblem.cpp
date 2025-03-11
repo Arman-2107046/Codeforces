@@ -32,16 +32,5 @@ int main()
             cout << count << endl;
             continue;
         }
-
-        // else if(a>b)
-        // {
-        //     for(ll i=10;i>0;i--)
-        //     {
-        //         count+=a/b;
-        //         a=a%b;
-        //     }
-        //     cout<<count<<endl;
-        //     continue;
-        // }
     }
 }
