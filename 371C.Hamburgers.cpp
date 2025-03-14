@@ -29,7 +29,7 @@ int main()
         else
             rc++;
     }
-    ll ans=0;
+    ll ans = 0;
 
     ll st = 0;
     ll ed = 1e15;
@@ -50,10 +50,10 @@ int main()
         }
         else
         {
-            ans=mid;
+            ans = mid;
             st = mid + 1;
         }
     }
 
-    cout<<ans<<endl;
+    cout << ans << endl;
 }
